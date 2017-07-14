@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="alicloud-android-hotfix-3.0.2">
+    <CLASSES>
+      <root url="jar://F:/program_files/android_studio/SDK/SDK/.android/build-cache/d3e75860cafc81bf7067149f87d0706cfb4899d5/output/jars/classes.jar!/" />
+      <root url="file://F:/program_files/android_studio/SDK/SDK/.android/build-cache/d3e75860cafc81bf7067149f87d0706cfb4899d5/output/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
